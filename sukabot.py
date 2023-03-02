@@ -6,9 +6,7 @@ from aiogram.utils import executor
 
 token = '5939494445:AAGHNtlOoo9O_ikTdHgcBSXXwYrapg4ME70'
 
-
 openai.api_key = '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'
-
 
 bot = Bot(token)
 dp = Dispatcher(bot)
